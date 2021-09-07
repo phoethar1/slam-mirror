@@ -53,13 +53,13 @@ OWNER_ID ကို https://t.me/MissRose_bot က /id နဲ့ ကြည့်�
 
 IS_TEAM_DRIVE = "True"
 
-TELEGRAM_API = my.telegram.org မှာ login ၀င်ပြီး API developments tools ထဲက app create ပြီး App api_id ကိုယူပါ
+TELEGRAM_API = my.telegram.org မှာ login ၀င်ပြီး API developments tools ထဲက App api_id ကိုယူပါ (App မရှိရင် create ပါ)
 
-TELEGRAM_HASH = အပေါ်ကအတိုင်း hash ကိုယူပါ 
+TELEGRAM_HASH = အပေါ်ကအတိုင်း App api_hash ကိုယူပါ 
 
 mega pro သုံးရင် mega ထည့်ပါ ရိုးရိုးဆိုမလိုပါ
 
-BASE_URL_OF_BOT = "" မှာ https://appname.herokuapp.com လို့ဖြည့်ပါ , appname က unique ဖြစ်ရပါမယ် unique ဖြစ်နိုင်တာကိုထည့်ပါ
+BASE_URL_OF_BOT = "https://appname.herokuapp.com" လို့ဖြည့်ပါ , appname က unique ဖြစ်ရပါမယ် unique ဖြစ်နိုင်တာကိုထည့်ပါ
 
 ကျန်တဲ့ config တွေအသေးစိတ်သိချင်ရင် မူရင် repo https://github.com/SlamDevs/slam-mirrorbot မှာ သွားဖတ်ပါ
 
