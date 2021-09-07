@@ -1,8 +1,8 @@
 # Slam Mirror bot (https://github.com/SlamDevs/slam-mirrorbot) ကို deployment အတွက် modified လုပ်ထားတဲ့ version ဖြစ်ပါတယ်
 
 ## General Usage 
-/mirror <anylink including facebook video links> 
-/watch <youtubelink>
+/mirror [anylink including facebook video links]
+/watch [youtubelink]
 
 use /help for more
 
