@@ -6,7 +6,6 @@ import asyncio
 from pyrogram import idle
 from bot import app, alive
 from sys import executable
-
 from telegram import ParseMode
 from telegram.ext import CommandHandler
 from wserver import start_server_async
