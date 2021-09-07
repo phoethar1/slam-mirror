@@ -31,12 +31,12 @@ Service accounts လုပ်ဖူးတဲ့ သူ က service accounts လ�
 
 ၁. google oauth client ကို console.cloud.google.com မှာ publish လုပ်ပါ
 
-၂. client id create ပါ။ json ကို down ပြီး credentials.json လို့ rename ပါ။ အဲ json ကို repo က ခုနက down ထားတဲ့ folder ထဲထည့်ပါ 
+၂. client id create ပါ။ json ကို down ပြီး credentials.json လို့ rename ပါ။ အဲ json ကို ခုနက down ထားတဲ့ folder ထဲထည့်ပါ 
 
-၃. cmd နဲ့ repo folder ထဲမှာ pip3 install -r requirements-cli.txt လုပ်ပါ။ ပြီးရင် py generate_drive_token.py သို့ python3 generate_drive_token.py ဆိုပြီးလုပ်သွားရင် token.pickle ရောက်လာပါမယ်
+၃. ပြီးရင် အဲ folder ထဲမှာ cmd နဲ့ pip3 install -r requirements-cli.txt လုပ်ပါ။ ပြီးရင် py generate_drive_token.py သို့ python3 generate_drive_token.py ဆိုပြီးလုပ်သွားရင် token.pickle ရောက်လာပါမယ်
 
 ## Optional Step (service accounts)
-တစ်နေ့ကို 750GB ထပ်ပို upload မယ်ထင်ရင် (တကယ်တော့ upload မလုပ်ဖြစ်ကြပါ) service accounts folder ကို repo folder ထဲထည့်ပါ။ 
+တစ်နေ့ကို 750GB ထပ်ပို upload မယ်ထင်ရင် (တကယ်တော့ upload မလုပ်ဖြစ်ကြပါ) service accounts folder ကို repo folder ထဲထည့်ပါ။ foler name က accounts ဖြစ်ရမယ်
 
 ပြီးရင် config.env မှာ USE_SERVICE_ACCOUNTS = "True" လုပ်ပေးရပါမယ်
 
