@@ -130,11 +130,11 @@ def downfb(url: str) -> str:
         js = str(bs).replace('<html><head></head><body>{"status":"ok","p":"facebook","links":', '').replace('</body></html>', '').replace('},', ',')
         unique = round(time.time() * 1000)
         
-        text_file = open(str(unique) + "fb.txt", "w")
+        text_file = open(str(unique) + "data.txt", "w")
         n = text_file.write(js)
         text_file.close()
         
-        with open(str(unique) + "fb.txt") as f:
+        with open(str(unique) + "data.txt") as f:
             contents = json.load(f)
             try:
               durl = str(contents['hd']).replace('&amp;', '&')
