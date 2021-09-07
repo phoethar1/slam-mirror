@@ -61,7 +61,7 @@ mega pro သုံးရင် mega ထည့်ပါ ရိုးရိုး�
 
 BASE_URL_OF_BOT = "https://appname.herokuapp.com" လို့ဖြည့်ပါ , appname က unique ဖြစ်ရပါမယ် unique ဖြစ်နိုင်တာကိုထည့်ပါ
 
-ကျန်တဲ့ config တွေအသေးစိတ်သိချင်ရင် မူရင် repo https://github.com/SlamDevs/slam-mirrorbot မှာ သွားဖတ်ပါ
+ကျန်တဲ့ config တွေအသေးစိတ်သိချင်ရင် မူရင်း repo https://github.com/SlamDevs/slam-mirrorbot မှာ သွားဖတ်ပါ
 
 ## Step 4 
 
