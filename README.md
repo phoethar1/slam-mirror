@@ -71,7 +71,7 @@ heroku login လုပ်ပြီး heroku ကို authenticate လုပ်
 
 အောက် က command လေးတွေကို အစဥ်လိုက်ရိုက်သွားပါ
 
-notice: အောက်က appname က config မှာ ပေးခဲ့ တဲ့ unique appname နဲ့တူရမယ်
+**Notice: အောက်က appname က config မှာ ပေးခဲ့ တဲ့ unique appname နဲ့တူရမယ်**
 
 > heroku create appname 
 
