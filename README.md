@@ -1,5 +1,5 @@
 #  slam-mirrorbot၏ gitကို androidဖုန််းသုံးပြီးgit push heroku လုပ်နည်း
-- [x] အရင်ဆုံး Termux ကို မိမိဖုန်းထဲ install လုပ်ပါ။Termux ကို ​အောက်ကပုံ နိပ်ပြီး downloadလုပ်ပါ
+-  အရင်ဆုံး Termux ကို မိမိဖုန်းထဲ install လုပ်ပါ။Termux ကို ​အောက်ကပုံ နိပ်ပြီး downloadလုပ်ပါ
 [![](1.png)version 0.117](https://drive.google.com/uc?export=download&id=19VycS90NijIR1u_KYTumRJDu4c2xKK7P)
 --------
 -  Service Accounts မလုပ်တက်ရင် ​အောက်ကနည်းအတိုင်းပြုလုပ်ပါ
@@ -44,9 +44,11 @@ cd /sdcard/MyTermux
 ```
 git clone https://github.com/phoethar1/slam-mirror
 ```
-[`မိမိဖုန်းfile manager ထဲက MyTermuxဆိုတဲ့ folder ထဲဝင် service-accountsဆိုတဲ့ folderထဲက accounts folderရယ် token.pickle file ကို slam-mirrorဆိုတဲ့ folderထဲမှာ copy လုပ်ပြီးထည့် 
-ပြီးရင် slam-mirror folderထဲက config.envကို ဖွင့်ပြီး မိမိ account နဲ သက်ဆိုင်တဲ့ တန်ဖိုးကို ပြင်ဆင်သတ်မှတ်ပါ`](#)
-
+`မိမိဖုန်းfile manager ထဲက MyTermuxဆိုတဲ့ folder ထဲဝင် service-accountsဆိုတဲ့ folderထဲက accounts folderရယ် token.pickle file ကို slam-mirrorဆိုတဲ့ folderထဲမှာ copy လုပ်ပြီးထည့် 
+ပြီးရင် slam-mirror folderထဲက config.envကို ဖွင့်ပြီး မိမိ account နဲ သက်ဆိုင်တဲ့ တန်ဖိုးကို ပြင်ဆင်သတ်မှတ်ပါ`
+--------
+-  confing.env ဖွင့်မရရင် ​[ဒီLINK က app](https://www.google.com/url?sa=t&source=web&rct=j&url=https://play.google.com/store/apps/details%3Fid%3Dcom.rhmsoft.edit%26hl%3Dmy%26gl%3DUS%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Dquickedit%26pcampaignid%3DAPPU_1_ovhvYZL5C4e6qtsP5cWDsA4&ved=2ahUKEwiS0uPc7NjzAhUHnWoFHeXiAOYQ5YQBegQIBhAC&sqi=2&usg=AOvVaw1CNFUinhUrTrs3FLQFv64Q)ကိုdownloadလုပ် ပြီးရင်appက​နေဖွင့်ပါ
+--------
 -  BOT_TOKEN ​နေရာမှာ [BotFather](https://t.me/BotFather)က​နေToken ယူပြီးဖြည့်
 
 -  GDRIVE_FOLDER_ID ​နေရာမှာ မိမိ upload လုပ်မယ့် folder id ဖြည့်
