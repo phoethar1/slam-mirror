@@ -44,7 +44,7 @@ git clone https://github.com/phoethar1/slam-mirror
 
 `GDRIVE_FOLDER_ID ​နေရာမှာ မိမိ upload လုပ်မယ့် folder id ဖြည့်`
 
-`OWNER_ID ​နေရာမှာ [MissRose_bot](https://t.me/MissRose_bot)မှာ/idလို့ ပို့လိုက် idကျလာရင် idကို copy လုပ်ပီးဖြည့်လိုက်`
+OWNER_ID ​နေရာမှာ [MissRose_bot](https://t.me/MissRose_bot)မှာ/idလို့ ပို့လိုက် idကျလာရင် idကို copy လုပ်ပီးဖြည့်လိုက်
 
 `IS_TEAM_DRIVE ​နေရာမှာ "True"`
 
