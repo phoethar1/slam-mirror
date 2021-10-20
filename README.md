@@ -1,3 +1,7 @@
+--------------------------------
+#  android phoneသုံးပြီး herokuမှာ slam-mirrorbot ၏ gitကို git push လုပ်နည်း
+
+
 ```
 termux-setup-storage
 ```
