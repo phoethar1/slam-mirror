@@ -52,7 +52,7 @@ git clone https://github.com/phoethar1/slam-mirror
 ပြီးရင် slam-mirror folderထဲက config.envကို ဖွင့်ပြီး မိမိ account နဲ သက်ဆိုင်တဲ့ တန်ဖိုးကို ပြင်ဆင်သတ်မှတ်ပါ`](#)
 
 --------
--  confing.env ဖွင့်မရရင် ​[ဒီLINK က app](https://www.google.com/url?sa=t&source=web&rct=j&url=https://play.google.com/store/apps/details%3Fid%3Dcom.rhmsoft.edit%26hl%3Dmy%26gl%3DUS%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Dquickedit%26pcampaignid%3DAPPU_1_ovhvYZL5C4e6qtsP5cWDsA4&ved=2ahUKEwiS0uPc7NjzAhUHnWoFHeXiAOYQ5YQBegQIBhAC&sqi=2&usg=AOvVaw1CNFUinhUrTrs3FLQFv64Q)ကိုdownloadလုပ် ပြီးရင်appက​နေဖွင့်ပါ
+-  confing.env ဖွင့်မရရင် ​[ဒီLINK က app](https://www.google.com/url?sa=t&source=web&rct=j&url=https://play.google.com/store/apps/details%3Fid%3Dcom.rhmsoft.edit%26hl%3Dmy%26gl%3DUS%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Dquickedit%26pcampaignid%3DAPPU_1_ovhvYZL5C4e6qtsP5cWDsA4&ved=2ahUKEwiS0uPc7NjzAhUHnWoFHeXiAOYQ5YQBegQIBhAC&sqi=2&usg=AOvVaw1CNFUinhUrTrs3FLQFv64Q)ကိုdownloadလုပ် ပြီးရင်confing.env.txt​ ခန name changeလိုက် ဖြည့်စရာဖြည့်ပြီးရင် နဂို name (config.env )rename ပြန်လုပ်
 --------
 -  BOT_TOKEN ​နေရာမှာ [BotFather](https://t.me/BotFather)က​နေToken ယူပြီးဖြည့်
 
@@ -68,6 +68,7 @@ git clone https://github.com/phoethar1/slam-mirror
 
 -  BASE_URL_OF_BOT ​နေရာမှာ https://မိမိherokuappname.herokuapp.com လို့ဖြည့်(appname က unique ဖြစ်နိုင်တာကိုထည့်ပါ)
 
+-  account folderနဲ့ token.pickle file ကို slam-mirror folderထဲ copyကူးလာထည့်
 ပြီးရင်
 
 ```
