@@ -67,6 +67,7 @@ heroku login
 ```
 heroku create appname
 ```
+`(config.envမှာဖြည့်ထားတဲheroku app name)`
 ```
 heroku stack:set container
 ```
