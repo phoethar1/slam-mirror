@@ -62,7 +62,7 @@ git clone https://github.com/phoethar1/slam-mirror
 
 -  IS_TEAM_DRIVE ​နေရာမှာ "True"
 
--  TELEGRAM_API ​နေရာမှာ my.telegram.orgမှာ loginဝင်ပြီးAPI developments tools ထဲက App api_id ကိုcopy လုပ်ပြီးဖြည့်ပါ ပြီးရင်App api_hashကို copyလုပ်ပြီး TELEGRAM_HASH ​နေရာမှာဖြည့်လိုက်ပါ
+-  TELEGRAM_API ​နေရာမှာ [my.telegram.org](my.telegram.org)မှာ loginဝင်ပြီးAPI developments tools ထဲက App api_id ကိုcopy လုပ်ပြီးဖြည့်ပါ ပြီးရင်App api_hashကို copyလုပ်ပြီး TELEGRAM_HASH ​နေရာမှာဖြည့်လိုက်ပါ
 
 -  USE_SERVICE_ACCOUNTS ​နေရာမှာ "True"
 
