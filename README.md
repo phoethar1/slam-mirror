@@ -32,4 +32,37 @@ mkdir /sdcard/MyTermux/ -p
 cd /sdcard/MyTermux
 ```
 ```
-git clone https://github.com/phoethar1/slam-mirror/
+git clone https://github.com/phoethar1/slam-mirror
+```
+```
+cd slam-mirror
+```
+```
+heroku login
+```
+[`Enter ပြန်​ခေါက် Browser ​ပေါ်​ရောက်သွာမယ်`](#)
+
+```
+heroku create appname
+```
+```
+heroku stack:set container
+```
+```
+git add *
+```
+```
+git commit -m "slam-mirror"
+```
+```
+git push heroku main
+```
+
+
+
+
+
+
+
+
+
