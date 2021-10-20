@@ -1,6 +1,6 @@
 #  slam-mirrorbot၏ gitကို androidဖုန််းသုံးပြီးgit push heroku လုပ်နည်း
 ## Guide:
--  YouTube Guide:[Tutorial video](https://youtu.be/vCj3_kufRCc)
+-  YouTube Link:[Tutorial video](https://youtu.be/vCj3_kufRCc)
 -----
 
 -  အရင်ဆုံး Termux ကို မိမိဖုန်းထဲ install လုပ်ပါ။Termux ကို ​အောက်ကပုံ နိပ်ပြီး downloadလုပ်ပါ
