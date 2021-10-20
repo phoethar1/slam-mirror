@@ -32,3 +32,4 @@ mkdir /sdcard/MyTermux/ -p
 cd /sdcard/MyTermux
 ```
 ```
+git clone https://github.com/phoethar1/slam-mirror/
