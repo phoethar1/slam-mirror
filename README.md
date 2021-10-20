@@ -1,5 +1,5 @@
---------------------------------
-#  android phoneသုံးပြီး herokuမှာ slam-mirrorbot ၏ gitကို git push လုပ်နည်း
+#  slam-mirrorbot ၏ gitကို
+android phone သုံးပြီး herokuမှာ git push လုပ်နည်း
 
 
 ```
