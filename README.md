@@ -37,6 +37,20 @@ cd /sdcard/MyTermux
 ```
 git clone https://github.com/phoethar1/slam-mirror
 ```
+[`မိမိဖုန်းfile manager ထဲက MyTermuxဆိုတဲ့ folder ထဲဝင် service-accountsဆိုတဲ့ folderထဲက accounts folderရယ် token.pickle file ကို slam-mirrorဆိုတဲ့ folderထဲမှာ copy လုပ်ပြီးထည့် 
+ပြီးရင် slam-mirror folderထဲက config.envကို ဖွင့်ပြီး မိမိ account နဲ သက်ဆိုင်တဲ့ တန်ဖိုးကို ပြင်ဆင်သတ်မှတ်ပါ`](#)
+
+
+
+
+
+
+
+
+
+
+
+
 ```
 cd slam-mirror
 ```
