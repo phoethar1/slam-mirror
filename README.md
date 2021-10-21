@@ -68,8 +68,6 @@ git clone https://github.com/phoethar1/slam-mirror
 
 -  BASE_URL_OF_BOT ​နေရာမှာ https://မိမိherokuappname.herokuapp.com လို့ဖြည့်(appname က unique ဖြစ်နိုင်တာကိုထည့်ပါ)
 
--  account folderနဲ့ token.pickle file ကို slam-mirror folderထဲ copyကူးလာထည့်
-ပြီးရင်
 
 ```
 cd slam-mirror
