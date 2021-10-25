@@ -1,4 +1,4 @@
-#  slam-mirrorbot၏ gitကို androidဖုန််းသုံးပြီးgit push heroku လုပ်နည်း
+#  androidဖုန််းသုံးပြီး slam-mirrorbot လုပ်နည်း
 ## Guide:
 -  YouTube Link:[Tutorial video](https://youtu.be/vCj3_kufRCc)
 -----
