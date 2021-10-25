@@ -71,7 +71,6 @@ python3 emails.py
           
 
    [Create Service Accounts](https://github.com/phoethar1/service-accounts)
----------
 
 --------
 slam-mirrorbot လုပ်နည်း
