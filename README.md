@@ -10,9 +10,10 @@
 ##  Service Accounts မလုပ်တက်ရင် ​အောက်ကနည်းအတိုင်းပြုလုပ်ပါ
 <details>
     <summary><b>service accounts လုပ်နည်း</b></summary>
-#  android phone အသုံးပြုပြီး service accounts လုပ်နည်း
-## Guide:
-- YouTube Link: [Create Service Accounts Tutorial](https://youtu.be/LGWk-UeW4ls)
+Guide:
+
+
+- YouTube Link: https://youtu.be/LGWk-UeW4ls
 ------
 
 ```
