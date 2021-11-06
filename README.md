@@ -96,7 +96,8 @@ git config --global user.name " Name ထည့်"
 ```
 
 ```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/SKGHD/Termux-heroku-cli/master/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/phoethar1/heroku-cli/master/install.sh)"
+
 ```
 ```
 mkdir /sdcard/MyTermux/ -p
